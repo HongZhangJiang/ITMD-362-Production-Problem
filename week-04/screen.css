@@ -64,7 +64,7 @@ table {
 
 	.wf-loading form { visibility: hidden; }
   	.wf-active form, .wf-inactive form { 
-    visibility: visible; font-family: 'times-serif'; 
+    		visibility: visible; font-family: 'times-serif'; 
   	}
 	
 	form {
