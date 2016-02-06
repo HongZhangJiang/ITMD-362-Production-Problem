@@ -61,6 +61,11 @@ table {
 	  -ie-text-size-adjust: 100%;
 	  text-size-adjust: 100%;
 	}
+
+	.wf-loading form { visibility: hidden; }
+  	.wf-active form, .wf-inactive form { 
+    visibility: visible; font-family: 'times-serif'; 
+  	}
 	
 	form {
 		font-family: times-serif;
