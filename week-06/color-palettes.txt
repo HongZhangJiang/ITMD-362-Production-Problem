@@ -15,8 +15,8 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename: A monochromatic palette for selling gaming laptops.PNG
+Explanation of your color choices: I choose different blue because blue is one of cool colors and gives an impression of calm. I think it is the men’s color and the most people who will visit this website are men.  
 
 * A shaded color palette for a website that sells natural and organic foods.
 
