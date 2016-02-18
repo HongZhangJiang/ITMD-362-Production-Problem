@@ -25,7 +25,7 @@ Explanation of your color choices: I choose green because I think this color pre
 
 * A complementary palette for a banking website.
 
-Filename:
+Filename: A complementary palette for a banking website.PNG
 Explanation of your color choices:
 
 * A triadic palette for a website that offers games for children.
