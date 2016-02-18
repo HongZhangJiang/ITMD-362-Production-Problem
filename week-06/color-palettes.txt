@@ -26,7 +26,7 @@ Explanation of your color choices: I choose green because I think this color pre
 * A complementary palette for a banking website.
 
 Filename: A complementary palette for a banking website.PNG
-Explanation of your color choices:
+Explanation of your color choices: I think blue present men and red present women. However, I do not want to use a high contrast of complementary color. That means I do not want men and women fight each other. Even they have different personality, they can live together. In the other hand, a banking website will server for all kinds of people which include men and women. I hope men or women will like this combination.  
 
 * A triadic palette for a website that offers games for children.
 
