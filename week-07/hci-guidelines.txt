@@ -26,8 +26,10 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): 
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/
+* How you implemented it in your sketch: 
+My design comes from the Apple iOS HCI Guidelines. Apple uses the themes, deference, clarity and depth. Hence, this design uses pictures to layout the menu because the pictures are simpler than the text and easy to understand. Users just click these pictures to get what they want. 
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
