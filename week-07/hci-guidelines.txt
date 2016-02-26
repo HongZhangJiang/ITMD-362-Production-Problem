@@ -34,6 +34,7 @@ My design comes from the Apple iOS HCI Guidelines. Apple uses the themes, defere
 * HCI Guidline Two (URL):
 http://developer.android.com/design/index.html
 * How you implemented it in your sketch:
+This design comes from Android Design Guidelines. Android prefers Material Design. It emphasizes users’ touching feeling and text content. Then, I decide to use these text bars to design the menu. Another important thing is I use search bar on the top of it. It is simple too but need users to interact with them. 
 
 * HCI Guidline Three (URL):
 * How you implemented it in your sketch:
