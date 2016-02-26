@@ -39,3 +39,4 @@ This design comes from Android Design Guidelines. Android prefers Material Desig
 * HCI Guidline Three (URL):
 https://dev.windows.com/en-us/desktop/design
 * How you implemented it in your sketch:
+This design comes from Windows Desktop Guidelines. Windows like to present everything as possible and combine something together. Hence, my design uses navigation bars which include dropdown menus.  
