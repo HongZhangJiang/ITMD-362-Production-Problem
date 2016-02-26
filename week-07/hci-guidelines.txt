@@ -37,4 +37,5 @@ http://developer.android.com/design/index.html
 This design comes from Android Design Guidelines. Android prefers Material Design. It emphasizes users’ touching feeling and text content. Then, I decide to use these text bars to design the menu. Another important thing is I use search bar on the top of it. It is simple too but need users to interact with them. 
 
 * HCI Guidline Three (URL):
+https://dev.windows.com/en-us/desktop/design
 * How you implemented it in your sketch:
