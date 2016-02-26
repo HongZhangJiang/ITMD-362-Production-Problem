@@ -32,6 +32,7 @@ https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/
 My design comes from the Apple iOS HCI Guidelines. Apple uses the themes, deference, clarity and depth. Hence, this design uses pictures to layout the menu because the pictures are simpler than the text and easy to understand. Users just click these pictures to get what they want. 
 
 * HCI Guidline Two (URL):
+http://developer.android.com/design/index.html
 * How you implemented it in your sketch:
 
 * HCI Guidline Three (URL):
