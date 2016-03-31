@@ -13,13 +13,14 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Is easy for users to find what they want?
+2. Is there a custom 404 page for broken links? 
+3. Is the internal search function easy to find and use (if applicable)?
+4. Does forms and signups only require essential information and provide helpful feedback?
+5. Does JavaScript bother users or help them? 
+6. Is there a busy indicator for all long running or Ajax requests?
+7. Are all the buttons/links grouped and displayed as per application convention?
+8. Are the pageseasy to scan for important information and are free of errors
+Design Consistency?
+9. Is the important site content viewable on a small monitor without scrolling?
+10. Are links obvious and take you to relevant pages?
