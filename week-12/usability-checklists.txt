@@ -8,8 +8,8 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1."Website Usability Checklist and Usability Guide": http://www.expertusability.com/website-usability-checklist-and-usability-guide/
+2. "10 Checkpoints For Initial User Interface Testing Of Commercial Web Applications": http://usabilitygeek.com/10-checkpoints-initial-user-interface-testing-commercial-web-applications/
 
 * Your own condensed, ten-item must-have usability checklist:
 
