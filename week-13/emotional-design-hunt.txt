@@ -1,4 +1,4 @@
-# Production Problem 8: Emotional Design Hunt
+﻿# Production Problem 8: Emotional Design Hunt
 
 ## The Problem
 
@@ -9,6 +9,7 @@ Then, locate a physical object that you use regularly in your life (does not hav
 ## Deliverables
 
 A. Photograph of the object (place in the week-13/ directory and commit).
+The object is the chair in my office.
 
 B. Emotional design levels of your object:
 
@@ -20,12 +21,7 @@ B. Emotional design levels of your object:
 
 C.  Emotional design qualities of the object that might be useful for Project 3/MyIIT redesign:
 
-<<<<<<< HEAD
 1. Visceral: use IIT basic color and do not miss any necessary function for students.
 2. Behavioral: offer convenient service for students as more as possible and put the links for all main service in the home page. 
 3. Reflective: it is the right or good design for lazy person and do not need you to take time find something.
-=======
-1.
-2.
-3.
->>>>>>> upstream/master
+
