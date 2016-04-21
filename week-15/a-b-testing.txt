@@ -8,6 +8,8 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 
 ## Deliverables
 
+Goal: I will choose the websit of IIT career services, http://web.iit.edu/career-services and try to find jobs4hawk easily.
+
 * Screenshots of the interface component on mobile and desktop, placed in this directory (`week-15`)
 
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`week-15`)
