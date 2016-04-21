@@ -15,3 +15,7 @@ Goal: I will choose the websit of IIT career services, http://web.iit.edu/career
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`week-15`)
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+This modification is finding a remarkable place to locate the weblink of jobs4hawk. Its orginal place is in the bottom of the page. Hence, I put it in the right upper corner and the first one after bxslider. This change let users don't scroll down the page and is more easy to find it. In HTML file, we need to use <a> tag and add a new hyperlink of jobs4hawk after career service. At the same time, we need to move the old div of jobs4hawk after bxsliders.
+In the HTML for this test, I would like to creat a welcome page to list the differences between the original one and revised one, offer two weblink to these two pages. These two pages will add a form to do evaluation and a button which can come backe to the welcome page. 
+In the CSS for this test, I would like to use another color for the evaluation form and hopt to distinguish with the test part. 
+In the JavaScript for this test, I would like to collect these data from the the evaluation form  and show the result to users.    
